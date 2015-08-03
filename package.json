@@ -1,0 +1,29 @@
+{
+  "name": "maki-identity-mnemonic",
+  "version": "0.0.0",
+  "description": "mnemonic (BIP39) identity for maki",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/maki-identity-mnemonic.git"
+  },
+  "keywords": [
+    "maki",
+    "identity",
+    "bitcoin",
+    "bip39",
+    "mnemonic"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/maki-identity-mnemonic/issues"
+  },
+  "homepage": "https://github.com/martindale/maki-identity-mnemonic",
+  "dependencies": {
+    "bitcore": "^0.12.14"
+  }
+}
