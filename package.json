@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/martindale/maki-identity-mnemonic",
   "dependencies": {
-    "bitcore": "^0.12.14"
+    "bitcore": "^0.12.14",
+    "bitcore-lib": "^0.13.13",
+    "bitcore-message": "^1.0.2"
   }
 }
